@@ -1,0 +1,56 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Productos sin stock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-03 12:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2-alpha-45482"
+
+#: productos-sin-stock.php:106
+#, php-format
+msgid ""
+"El plugin %s necesita que WooCommerce esté activado. Por favor, activa "
+"WooCommerce primero."
+msgstr ""
+
+#. Author of the plugin
+msgid "Enrique J. Ros"
+msgstr ""
+
+#: productos-sin-stock.php:123
+#, php-format
+msgid ""
+"Gracias por usar %s. Ve a la página de ajustes para configurar el plugin."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.enriquejros.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.enriquejros.com/plugins/reordena-productos-sin-stock/"
+msgstr ""
+
+#. Name of the plugin
+#: productos-sin-stock.php:36
+msgid "Productos sin stock"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Reordena los productos sin stock, colocándolos al final de las listas de "
+"productos (en tienda, categorías, etiquetas, etc)"
+msgstr ""
+
+#: productos-sin-stock.php:148
+msgid "Soporte"
+msgstr ""

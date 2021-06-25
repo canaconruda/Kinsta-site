@@ -1,0 +1,168 @@
+{
+    "site_mode": "light",
+    "site_layout": "boxed",
+    "boxed-container": "1400",
+    "offset-top": 0,
+    "offset-bottom": "30",
+    "border-radius-body": 5,
+    "logo_light": {
+        "url": "https://demo2.wpopal.com/freshio/wp-content/uploads/2020/08/logo.svg",
+        "id": "366",
+        "height": "0",
+        "width": "0",
+        "thumbnail": "https://demo2.wpopal.com/freshio/wp-content/uploads/2020/08/logo.svg"
+    },
+    "logo_dark": {
+        "url": "https://demo2.wpopal.com/freshio/wp-content/uploads/2020/08/logo.svg",
+        "id": "366",
+        "height": "0",
+        "width": "0",
+        "thumbnail": "https://demo2.wpopal.com/freshio/wp-content/uploads/2020/08/logo.svg"
+    },
+    "logo_size": {
+        "width": "",
+        "height": "",
+        "units": "px"
+    },
+    "body-background": {
+        "background-color": "",
+        "background-repeat": "",
+        "background-size": "cover",
+        "background-attachment": "",
+        "background-position": "center top",
+        "background-image": "https://demo2wpopal.b-cdn.net/freshio/wp-content/uploads/2020/08/home2_bkg.jpg",
+        "media": {
+            "id": "",
+            "height": "",
+            "width": "",
+            "thumbnail": ""
+        }
+    },
+    "color-primary": {
+        "regular": "",
+        "hover": ""
+    },
+    "color-body": "",
+    "color-heading": "",
+    "color-border": "",
+    "color-light": "",
+    "color-dark": "",
+    "typography-body": {
+        "font-family": "",
+        "font-options": "",
+        "google": "1",
+        "font-weight": "",
+        "font-style": "",
+        "subsets": "",
+        "font-size": "",
+        "line-height": "",
+        "word-spacing": "",
+        "letter-spacing": ""
+    },
+    "typography-heading": {
+        "font-family": "",
+        "font-options": "",
+        "google": "1",
+        "font-weight": "",
+        "font-style": "",
+        "subsets": "",
+        "font-size": "",
+        "line-height": "",
+        "word-spacing": "",
+        "letter-spacing": ""
+    },
+    "typography-tertiary": {
+        "font-family": "",
+        "font-options": "",
+        "google": "1",
+        "font-weight": "",
+        "font-style": "",
+        "subsets": "",
+        "font-size": "",
+        "line-height": "",
+        "word-spacing": "",
+        "letter-spacing": ""
+    },
+    "header-type": "4",
+    "show-header-search": "1",
+    "show-header-cart": "1",
+    "header-cart-dropdown": "dropdown",
+    "show-header-account": "1",
+    "show-header-wishlist": "1",
+    "welcome-message": "FREE express international delivery + EASY returns",
+    "custom-link": "<div class=\"freshio-custom-link\">\r\n\t\t\t\t\t\t<ul>\r\n\t\t\t\t\t\t\t<li><a href=\"#\">ABOUT</a></li>\r\n\t\t\t\t\t\t\t<li><a href=\"#\">FAQ</a></li>\r\n\t\t\t\t\t\t\t<li><a href=\"#\">CONTACT US</a></li>\r\n\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t</div>",
+    "contact-info": "<div class=\"freshio-contact\">\n    <div class=\"contact_inner\">\n        <div class=\"contact_icon\">\n            <i class=\"freshio-icon-headphones-alt\" aria-hidden=\"true\"></i>\n        </div>\n        <div class=\"contact_content\">\n            \n            <span class=\"title\">(1800)-88-66-991</span>\n        </div>\n    </div>\n </div>",
+    "show-header-sticky": "1",
+    "color-header-sticky": "",
+    "background-header-sticky": {
+        "background-color": "",
+        "background-repeat": "",
+        "background-size": "",
+        "background-attachment": "",
+        "background-position": "",
+        "background-image": "",
+        "media": {
+            "id": "",
+            "height": "",
+            "width": "",
+            "thumbnail": ""
+        }
+    },
+    "color-menu-canvas": "",
+    "color-menu-canvas-active": "",
+    "color-menu-canvas-border": "",
+    "background-menu-canvas": "",
+    "breadcrumb-default-color": "",
+    "breadcrumb-default-bg": {
+        "background-color": "",
+        "background-repeat": "",
+        "background-size": "",
+        "background-attachment": "",
+        "background-position": "center center",
+        "background-image": "https://demo2.wpopal.com/freshio/wp-content/uploads/2020/08/breadcrumb_bkg.jpg",
+        "media": {
+            "id": "1298",
+            "height": "300",
+            "width": "1920",
+            "thumbnail": "https://demo2.wpopal.com/freshio/wp-content/uploads/2020/08/breadcrumb_bkg-150x150.jpg"
+        }
+    },
+    "breadcrumb-woo-bg": {
+        "background-color": "",
+        "background-repeat": "",
+        "background-size": "",
+        "background-attachment": "",
+        "background-position": "center center",
+        "background-image": "https://demo2.wpopal.com/freshio/wp-content/uploads/2020/08/breadcrumb_woo.jpg",
+        "media": {
+            "id": "2195",
+            "height": "300",
+            "width": "1920",
+            "thumbnail": "https://demo2.wpopal.com/freshio/wp-content/uploads/2020/08/breadcrumb_woo-150x150.jpg"
+        }
+    },
+    "blog-style": "standard",
+    "social_text": [],
+    "social-share": "1",
+    "social-share-facebook": "1",
+    "social-share-twitter": "1",
+    "social-share-linkedin": "1",
+    "social-share-google-plus": "1",
+    "social-share-pinterest": "1",
+    "social-share-email": "1",
+    "enable-footer-builder": true,
+    "footer-builder-slug": "footerbuilder-2",
+    "woocommerce_product_hover": "default",
+    "woocommerce_product_single_width": {
+        "width": "800px",
+        "units": "px"
+    },
+    "woocommerce_product_thumbnail_width": {
+        "width": "450px",
+        "units": "px"
+    },
+    "woocommerce_archive_layout": "default",
+    "woocommerce_archive_sidebar": "left",
+    "single-product-gallery-layout": "horizontal",
+    "single-product-related-columns": "4"
+}

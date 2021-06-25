@@ -1,0 +1,99 @@
+{
+    "elementor_pro_version": "3.1.1",
+    "elementor_pro_license_key": "Licence Hacked",
+    "_elementor_pro_license_data": {
+        "timeout": 1678418737,
+        "value": "{\"success\":true,\"license\":\"valid\",\"item_id\":false,\"item_name\":\"Elementor Pro\",\"is_local\":false,\"license_limit\":\"1000\",\"site_count\":\"1000\",\"activations_left\":1,\"expires\":\"lifetime\",\"customer_email\":\"info@wpopal.com\"}"
+    },
+    "_elementor_pro_installed_time": "1597049813",
+    "elementor_custom_icon_sets_config": [],
+    "elementor_pro_theme_builder_conditions": [],
+    "elementor_fonts_manager_font_types": [],
+    "elementor_fonts_manager_fonts": [],
+    "elementor_scheme_color": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+    },
+    "elementor_scheme_typography": {
+        "1": {
+            "font_family": "",
+            "font_weight": ""
+        },
+        "2": {
+            "font_family": "",
+            "font_weight": ""
+        },
+        "3": {
+            "font_family": "",
+            "font_weight": ""
+        },
+        "4": {
+            "font_family": "",
+            "font_weight": ""
+        }
+    },
+    "elementor_scheme_color-picker": {
+        "1": "#6ec1e4",
+        "2": "#54595f",
+        "3": "#7a7a7a",
+        "4": "#61ce70",
+        "5": "#4054b2",
+        "6": "#23a455",
+        "7": "#000",
+        "8": "#fff"
+    },
+    "_elementor_general_settings": {
+        "default_generic_fonts": "Sans-serif",
+        "container_width": "1290",
+        "global_image_lightbox": "yes"
+    },
+    "elementor_cpt_support": [
+        "post",
+        "page",
+        "product"
+    ],
+    "elementor_disable_color_schemes": "",
+    "elementor_disable_typography_schemes": "",
+    "elementor_allow_tracking": "no",
+    "elementor_default_generic_fonts": "Sans-serif",
+    "elementor_container_width": "1290",
+    "elementor_space_between_widgets": "",
+    "elementor_stretched_section_container": "",
+    "elementor_page_title_selector": "",
+    "elementor_viewport_lg": "",
+    "elementor_viewport_md": "",
+    "elementor_global_image_lightbox": "yes",
+    "elementor_pro_recaptcha_site_key": "",
+    "elementor_pro_recaptcha_secret_key": "",
+    "elementor_pro_recaptcha_v3_site_key": "",
+    "elementor_pro_recaptcha_v3_secret_key": "",
+    "elementor_pro_recaptcha_v3_threshold": "0.5",
+    "elementor_pro_facebook_app_id": "",
+    "elementor_pro_mailchimp_api_key": "",
+    "elementor_validate_api_data": "",
+    "elementor_pro_drip_api_token": "",
+    "elementor_pro_activecampaign_api_key": "",
+    "elementor_pro_activecampaign_api_url": "",
+    "elementor_pro_getresponse_api_key": "",
+    "elementor_pro_convertkit_api_key": "",
+    "elementor_pro_mailerlite_api_key": "",
+    "elementor_use_mini_cart_template": "initial",
+    "elementor_typekit-kit-id": "",
+    "elementor_css_print_method": "external",
+    "elementor_editor_break_lines": "",
+    "elementor_unfiltered_files_upload": "1",
+    "elementor_load_fa4_shim": "",
+    "elementor_pro_tracker_notice": "1",
+    "elementor_tracker_notice": "1",
+    "elementor_font_awesome_pro_kit_id": "",
+    "elementor_enable_unfiltered_files_upload": "",
+    "elementor_install_history": {
+        "2.9.14": 1611988461,
+        "2.10.3": 1611988450,
+        "3.0.10": 1614239883,
+        "3.1.0": 1611988462,
+        "3.1.1": 1614239884
+    }
+}
